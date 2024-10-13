@@ -1,0 +1,15 @@
+.main-page {
+    align-items: center;
+    border: 1px solid black;
+    margin-top: 40vh;
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+.tab-list {
+    align-items: center;
+}
+
+.card-data {
+    border: 2px solid black;
+}
