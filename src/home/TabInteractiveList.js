@@ -1,21 +1,18 @@
 import * as React from 'react';
-import { styled } from '@mui/material/styles';
 import List from '@mui/material/List';
-import Grid from '@mui/material/Grid';
 import { ListItem, ListItemAvatar, ListItemText, IconButton, Card } from '@mui/material';
 import './main-page.css';
 
 
 export default function TabInteractiveList({ urlData }) { // Destructure urlData
-  const [dense, setDense] = React.useState(false);
 
   return (
       <Card  className='card-data'>
-        <List dense={dense}>
+        <List className='card-data-list'>
           {urlData && urlData.length > 0 ? (
             urlData.map((singleData, index) => (
               <a href={singleData.href} style={{ textDecoration: 'none', color: 'inherit' }} key={index}>
-                <ListItem
+                <ListItem className='card-data-list-item'
                   secondaryAction={
                     <IconButton edge="end" aria-label="delete">
                       {/* You can add your delete icon here */}
