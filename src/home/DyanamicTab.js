@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from 'react';
-import { Box, Tabs, Tab, IconButton, TextField, Card, CardContent, Button, Typography } from '@mui/material';
 import AddIcon from '@mui/icons-material/Add';
+import { Box, Button, Card, CardContent, IconButton, Tab, Tabs, TextField, Typography } from '@mui/material';
+import React, { useEffect, useState } from 'react';
+import useBookmarkService from '../services/UserBookMarkService';
 import AddNewLink from './AddNewLink';
-import TabInteractiveList from './TabInteractiveList';
 import CustomTabPanel from './CustomTabPanel';
 import './main-page.css';
-import useBookmarkService from '../services/UserBookMarkService';
+import TabInteractiveList from './TabInteractiveList';
 
 
 export default function DynamicTabs() {
@@ -13,13 +13,13 @@ export default function DynamicTabs() {
   const [tabs, setTabs] = useState([]);
 
   useEffect(() => {
-      const fetchData = () => {
-        const myUrlData = myService.fetchBMforUser();
-        setTabs(myUrlData);
-      };
-      
-      fetchData();
-    }, []);
+    const fetchData = () => {
+      const myUrlData = myService.fetchBMforUser();
+      setTabs(myUrlData); // Set to array or empty array from service
+    };
+
+    fetchData();
+  }, []);
 
   const [value, setValue] = useState(0);
   const [editIndex, setEditIndex] = useState(-1); // Track which tab is being edited
@@ -92,6 +92,8 @@ export default function DynamicTabs() {
     setEditCardIndex(null); // Exit card edit mode
   };
 
+  console.log(tabs);
+
   return (
     <div className="tab-list">
       <Box sx={{ width: '100%' }}>
@@ -106,7 +108,7 @@ export default function DynamicTabs() {
             <Tab
               key={index}
               label={
-                editIndex === index ? (
+                (editIndex === index) ? (
                   <TextField
                     value={editLabel}
                     onChange={handleInputChange}
@@ -115,7 +117,7 @@ export default function DynamicTabs() {
                       if (e.key === 'Enter') handleSaveLabel(index);
                     }} // Save on Enter key
                     size="small"
-                    autoFocus
+
                   />
                 ) : (
                   <span onDoubleClick={() => handleEditLabel(index)} style={{ cursor: 'pointer' }}>
@@ -132,12 +134,12 @@ export default function DynamicTabs() {
         </Tabs>
 
         {/* Display Tab Panels */}
-        {tabs.map((tab, tabIndex) => (
+        {tabs && tabs.map((tab, tabIndex) => (
           <CustomTabPanel key={tabIndex} value={value} index={tabIndex}>
             {/* Flexbox Container to display cards side by side */}
             <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 2 }}>
               {tab.cards.map((card, cardIndex) => (
-                <Card key={cardIndex} className='card-1' variant="outlined" sx={{ flex: '2 2 auto'}}>
+                <Card key={cardIndex} className='card-1' variant="outlined" sx={{ flex: '2 2 auto' }}>
                   <CardContent>
                     {editCardIndex && editCardIndex.tabIndex === tabIndex && editCardIndex.cardIndex === cardIndex ? (
                       <TextField

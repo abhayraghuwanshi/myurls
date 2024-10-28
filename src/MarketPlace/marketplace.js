@@ -1,5 +1,5 @@
-import * as React from 'react';
-import PropTypes from 'prop-types';
+import RssFeedRoundedIcon from '@mui/icons-material/RssFeedRounded';
+import SearchRoundedIcon from '@mui/icons-material/SearchRounded';
 import Avatar from '@mui/material/Avatar';
 import AvatarGroup from '@mui/material/AvatarGroup';
 import Box from '@mui/material/Box';
@@ -7,44 +7,19 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Chip from '@mui/material/Chip';
+import FormControl from '@mui/material/FormControl';
 import Grid from '@mui/material/Grid2';
 import IconButton from '@mui/material/IconButton';
-import Typography from '@mui/material/Typography';
-import FormControl from '@mui/material/FormControl';
 import InputAdornment from '@mui/material/InputAdornment';
 import OutlinedInput from '@mui/material/OutlinedInput';
 import { styled } from '@mui/material/styles';
-import SearchRoundedIcon from '@mui/icons-material/SearchRounded';
-import RssFeedRoundedIcon from '@mui/icons-material/RssFeedRounded';
+import Typography from '@mui/material/Typography';
+import PropTypes from 'prop-types';
+import * as React from 'react';
 import { useNavigate } from 'react-router-dom';
+import MarketPlaceService from '../services/MarketPlaceBookMarkService';
 
 
-const cardData = [
-  {
-    id:1,
-    img: 'https://picsum.photos/800/450?random=1',
-    tag: 'Engineering',
-    title: 'Revolutionizing software development with cutting-edge tools',
-    description:
-      'Our latest engineering tools are designed to streamline workflows and boost productivity. Discover how these innovations are transforming the software development landscape.',
-    authors: [
-      { name: 'Remy Sharp', avatar: '/static/images/avatar/1.jpg' },
-      { name: 'Travis Howard', avatar: '/static/images/avatar/2.jpg' },
-    ],
-  },
-  {
-    id:2,
-    img: 'https://picsum.photos/800/450?random=1',
-    tag: 'Engineering',
-    title: 'Revolutionizing software development with cutting-edge tools',
-    description:
-      'Our latest engineering tools are designed to streamline workflows and boost productivity. Discover how these innovations are transforming the software development landscape.',
-    authors: [
-      { name: 'sasa asa', avatar: '/static/images/avatar/1.jpg' },
-      { name: 'asa as', avatar: '/static/images/avatar/2.jpg' },
-    ],
-  }
-];
 
 const SyledCard = styled(Card)(({ theme }) => ({
   display: 'flex',
@@ -147,6 +122,21 @@ export function Search() {
 }
 
 export default function MainContent() {
+
+  const [cardData, setCard] = React.useState([])
+
+  const service = MarketPlaceService()
+
+
+  React.useEffect(() => {
+    const fetchData = () => {
+      const c = service.getCollections();
+      setCard(c);
+    };
+
+    fetchData();
+  }, []);
+
   const [focusedCardIndex, setFocusedCardIndex] = React.useState(null);
   const navigate = useNavigate(); // For programmatic navigation
   const handleFocus = (index) => {
@@ -161,14 +151,14 @@ export default function MainContent() {
     console.info('You clicked the filter chip.');
   };
 
-  
+
   const handleClickCard = (card) => {
-    navigate('/marketplace/'+ card.id)
+    navigate('/marketplace/' + card.id)
   };
 
 
   return (
-    <Box sx={{ display: 'flex', flexDirection: 'column', gap: 4, marginLeft: '5%', marginRight: '5%', marginBottom:'4%'  }}>
+    <Box sx={{ display: 'flex', flexDirection: 'column', gap: 4, marginLeft: '5%', marginRight: '5%', marginBottom: '4%' }}>
       <div>
         <Typography>Stay in the loop with the latest about our products</Typography>
       </div>
@@ -232,21 +222,21 @@ export default function MainContent() {
         </Box>
       </Box>
       <Grid container spacing={2} columns={12}>
-        {cardData.map((card, cardIndex) => 
+        {cardData.map((card, cardIndex) =>
 
-          <Grid size={{ xs: 12, md: 4 }}>
+          <Grid size={{ xs: 12, md: 4 }} key={cardIndex}>
             <SyledCard
               variant="outlined"
               onFocus={() => handleFocus(0)}
               onBlur={handleBlur}
               tabIndex={0}
-              onClick={handleClickCard(card)}
+              onClick={() => handleClickCard(card)}
               className={focusedCardIndex === 0 ? 'Mui-focused' : ''}
             >
               <CardMedia
                 component="img"
                 alt="green iguana"
-                image={cardData[0].img}
+                image={card.img}
                 aspect-ratio="16 / 9"
                 sx={{
                   borderBottom: '1px solid',

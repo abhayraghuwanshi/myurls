@@ -1,11 +1,10 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { Settings } from '@mui/icons-material';
 import Button from '@mui/material/Button';
 import Menu from '@mui/material/Menu';
 import MenuItem from '@mui/material/MenuItem';
-import PopupState, { bindTrigger, bindMenu } from 'material-ui-popup-state';
-import { IconButton } from '@mui/material';
-import { Settings } from '@mui/icons-material';
+import PopupState, { bindMenu, bindTrigger } from 'material-ui-popup-state';
+import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 
 
@@ -18,7 +17,7 @@ export default function MenuPopupState() {
         {(popupState) => (
           <React.Fragment>
             <Button {...bindTrigger(popupState)}>
-              <IconButton><Settings /></IconButton>
+              <Settings />
             </Button>
             <Menu {...bindMenu(popupState)}>
               <MenuItem onClick={() => { navigate('/profile'); popupState.close(); }}>My account</MenuItem>

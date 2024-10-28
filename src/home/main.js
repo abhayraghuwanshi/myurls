@@ -2,7 +2,6 @@ import * as React from 'react';
 import DynamicTabs from './DyanamicTab';
 import './main-page.css'
 import SearchBox from './SearchBox';
-import MenuPopupState from '../navbar/Menu';
 
 export default function MainPage() {
 

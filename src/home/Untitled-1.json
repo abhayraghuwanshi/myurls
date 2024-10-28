@@ -1,0 +1,1369 @@
+[
+    {
+        "label": "Tab 1",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://youtube.com/",
+                        "icon": "",
+                        "shortName": "YouTube",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "https://app.grammarly.com/docs/new",
+                        "icon": "",
+                        "shortName": "Grammarly",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://chat.openai.com/",
+                        "icon": "",
+                        "shortName": "ChatGPT",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 4",
+                "bookmarks": [
+                    {
+                        "href": "https://savetube.app/en1",
+                        "icon": "",
+                        "shortName": "Download Youtube video",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 5",
+                "bookmarks": [
+                    {
+                        "href": "https://kite.zerodha.com/dashboard",
+                        "icon": "",
+                        "shortName": "Dashboard / Kite",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 6",
+                "bookmarks": [
+                    {
+                        "href": "edge://newtab/",
+                        "icon": "",
+                        "shortName": "New tab",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 7",
+                "bookmarks": [
+                    {
+                        "href": "https://keithschwarz.com/interesting/code/?dir=find-duplicate",
+                        "icon": "",
+                        "shortName": "Archive of Interesting Code",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 8",
+                "bookmarks": [
+                    {
+                        "href": "https://www.freecodecamp.org/news/the-docker-handbook/",
+                        "icon": "",
+                        "shortName": "The Docker",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 9",
+                "bookmarks": [
+                    {
+                        "href": "chrome-extension://mjhigpcgpfiaadanipnacbalgaaleclc/src/pdfjs/web/viewer.html?file=https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf",
+                        "icon": "",
+                        "shortName": "16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 10",
+                "bookmarks": [
+                    {
+                        "href": "https://cp-algorithms.com/combinatorics/bracket_sequences.html#:~:text=A%20balanced%20bracket%20sequence%20is%20a%20string%20consisting,and%20mathematical%20operations%2C%20gives%20a%20valid%20mathematical%20expression.",
+                        "icon": "",
+                        "shortName": "Balanced bracket sequences - Algorithms for Competitive Programming",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 11",
+                "bookmarks": [
+                    {
+                        "href": "https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html",
+                        "icon": "",
+                        "shortName": "Divide and Conquer DP - Algorithms for Competitive Programming",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 12",
+                "bookmarks": [
+                    {
+                        "href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/",
+                        "icon": "",
+                        "shortName": "Best Time to Buy and Sell Stock with Transaction Fee - LeetCode",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 13",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/debu3645/Java-Books/blob/master/Java-Design-Patterns.pdf",
+                        "icon": "",
+                        "shortName": "Java-Books/Java-Design-Patterns.pdf at master · debu3645/Java-Books",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 14",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/Codelessly/FlutterMinimalWebsite",
+                        "icon": "",
+                        "shortName": "Codelessly/FlutterMinimalWebsite: A minimalistic Flutter website template for blogs and portfolios. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 15",
+                "bookmarks": [
+                    {
+                        "href": "https://www.linkedin.com/feed/?trk=404_page",
+                        "icon": "",
+                        "shortName": "LinkedIn",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 16",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/ByteByteGoHq/system-design-101?tab=readme-ov-file",
+                        "icon": "",
+                        "shortName": "GitHub - ByteByteGoHq/system-design-101: Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 17",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/donnemartin/system-design-primer?tab=readme-ov-file#system-design-topics-start-here",
+                        "icon": "",
+                        "shortName": "GitHub - donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 18",
+                "bookmarks": [
+                    {
+                        "href": "https://www.canva.com/",
+                        "icon": "",
+                        "shortName": "Home - Canva",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 19",
+                "bookmarks": [
+                    {
+                        "href": "https://excalidraw.com/",
+                        "icon": "",
+                        "shortName": "Excalidraw",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 20",
+                "bookmarks": [
+                    {
+                        "href": "https://www.youtube.com/@mitocw/playlists",
+                        "icon": "",
+                        "shortName": "(8) MIT OpenCourseWare - YouTube",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 21",
+                "bookmarks": [
+                    {
+                        "href": "https://www.overleaf.com/project/65b7ec7844d9c51b409b7901",
+                        "icon": "",
+                        "shortName": "CV-Developer - Online LaTeX Editor Overleaf",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 22",
+                "bookmarks": [
+                    {
+                        "href": "https://smart-tutorials.info/Please-Wait.php",
+                        "icon": "",
+                        "shortName": "Ocean of Games » Your File Will be Fetched Shortly..!!",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 23",
+                "bookmarks": [
+                    {
+                        "href": "https://www.reddit.com/r/EngineeringResumes/wiki/index/",
+                        "icon": "",
+                        "shortName": "resume",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 24",
+                "bookmarks": [
+                    {
+                        "href": "https://www.reddit.com/r/EngineeringResumes/wiki/sample-bullet-points/#wiki_software",
+                        "icon": "",
+                        "shortName": "Reddit - Dive into anything",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 25",
+                "bookmarks": [
+                    {
+                        "href": "https://docs.google.com/document/d/1aFmOZhuWYJJUH4hGBN42b2JO-cw32j3jNlXUnfPF060/edit",
+                        "icon": "",
+                        "shortName": "Abhay-resume - Google Docs",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 26",
+                "bookmarks": [
+                    {
+                        "href": "https://jobs.smartrecruiters.com/Visa/743999991933745-sw-engineer-java-angular-or-react-?source=LinkedIn",
+                        "icon": "",
+                        "shortName": "Visa SW Engineer (Java + Angular or React) | SmartRecruiters",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 27",
+                "bookmarks": [
+                    {
+                        "href": "https://careers.ey.com/ey/job/Bengaluru-WAM-Java-Spring-Boot-CB-KA-560016/1080140001/",
+                        "icon": "",
+                        "shortName": "WAM-Java Spring Boot-CB Job Details | EY",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 28",
+                "bookmarks": [
+                    {
+                        "href": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal",
+                        "icon": "",
+                        "shortName": "Careers",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 29",
+                "bookmarks": [
+                    {
+                        "href": "https://paypal.eightfold.ai/careers/job/274901437849",
+                        "icon": "",
+                        "shortName": "Software Engineer | Careers at PayPal",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 30",
+                "bookmarks": [
+                    {
+                        "href": "https://cutshort.io/profile/candidate-conversations?i=all&stage=unread&thread=669f7c765385a90027cb0f4a",
+                        "icon": "",
+                        "shortName": "Cutshort: Making Top Professionals More Successful.",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 31",
+                "bookmarks": [
+                    {
+                        "href": "https://doselect.com/gateways/public_assessment?pubkey=mU7ULzu%2B9OMT688StXBjRH9hc0tcH34JOl7eUrhNhbf8BZ568ouoA5ncpBb/IJk0",
+                        "icon": "",
+                        "shortName": "Java Assessment (MCQ + Coding) - DoSelect",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 32",
+                "bookmarks": [
+                    {
+                        "href": "https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=23694889&location=india&domain=aexp.com&sort_by=relevance&triggerGoButton=false&job_index=8",
+                        "icon": "",
+                        "shortName": "Engineer II - Java Backend | Careers at American Express",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 33",
+                "bookmarks": [
+                    {
+                        "href": "https://hackathon-app.doselect.com/1441/instructions",
+                        "icon": "",
+                        "shortName": "doselect",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 34",
+                "bookmarks": [
+                    {
+                        "href": "https://lucid.app/lucidchart/4afc7765-dcd0-4fa2-b874-2e341e02371b/edit?beaconFlowId=1A439A725875A95C&invitationId=inv_93a6c82f-d745-4421-930a-0928c81a6b53&page=0_0",
+                        "icon": "",
+                        "shortName": "HLD: Lucidchart",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 35",
+                "bookmarks": [
+                    {
+                        "href": "https://www.instahyre.com/candidate/inbox/270250/4757444872/",
+                        "icon": "",
+                        "shortName": "Inbox - Instahyre",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 36",
+                "bookmarks": [
+                    {
+                        "href": "https://tophire.co/interview-requests/active",
+                        "icon": "",
+                        "shortName": "TopHire",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 37",
+                "bookmarks": [
+                    {
+                        "href": "https://automateapply.com/",
+                        "icon": "",
+                        "shortName": "Home - automateapply.com",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 38",
+                "bookmarks": [
+                    {
+                        "href": "https://scale.jobs/",
+                        "icon": "",
+                        "shortName": "scale.jobs | Hire a Virtual Assistant for Your Job Hunt",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 39",
+                "bookmarks": [
+                    {
+                        "href": "https://99designs.com/profiles/2che/designs/46371",
+                        "icon": "",
+                        "shortName": "Creative website for Software Company. Opportunity for further design work for winner. | 99designs",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 40",
+                "bookmarks": [
+                    {
+                        "href": "https://cdn2.hubspot.net/hub/53/file-2366868440-png/Website-Homepage-Design-2015-Dropbox-Full.png",
+                        "icon": "",
+                        "shortName": "Website-Homepage-Design-2015-Dropbox-Full.png (1264×2496)",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 41",
+                "bookmarks": [
+                    {
+                        "href": "edge://newtab/",
+                        "icon": "",
+                        "shortName": "New tab",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 2",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://chat.openai.com/",
+                        "icon": "",
+                        "shortName": "ChatGPT",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "https://savetube.app/en1",
+                        "icon": "",
+                        "shortName": "Download Youtube video",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 3",
+        "cards": []
+    },
+    {
+        "label": "Tab 4",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://kite.zerodha.com/dashboard",
+                        "icon": "",
+                        "shortName": "Dashboard / Kite",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "edge://newtab/",
+                        "icon": "",
+                        "shortName": "New tab",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://keithschwarz.com/interesting/code/?dir=find-duplicate",
+                        "icon": "",
+                        "shortName": "Archive of Interesting Code",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 5",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://www.freecodecamp.org/news/the-docker-handbook/",
+                        "icon": "",
+                        "shortName": "The Docker",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "chrome-extension://mjhigpcgpfiaadanipnacbalgaaleclc/src/pdfjs/web/viewer.html?file=https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf",
+                        "icon": "",
+                        "shortName": "16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://cp-algorithms.com/combinatorics/bracket_sequences.html#:~:text=A%20balanced%20bracket%20sequence%20is%20a%20string%20consisting,and%20mathematical%20operations%2C%20gives%20a%20valid%20mathematical%20expression.",
+                        "icon": "",
+                        "shortName": "Balanced bracket sequences - Algorithms for Competitive Programming",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 4",
+                "bookmarks": [
+                    {
+                        "href": "https://cp-algorithms.com/dynamic_programming/divide-and-conquer-dp.html",
+                        "icon": "",
+                        "shortName": "Divide and Conquer DP - Algorithms for Competitive Programming",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 5",
+                "bookmarks": [
+                    {
+                        "href": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/",
+                        "icon": "",
+                        "shortName": "Best Time to Buy and Sell Stock with Transaction Fee - LeetCode",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 6",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/debu3645/Java-Books/blob/master/Java-Design-Patterns.pdf",
+                        "icon": "",
+                        "shortName": "Java-Books/Java-Design-Patterns.pdf at master · debu3645/Java-Books",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 7",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/Codelessly/FlutterMinimalWebsite",
+                        "icon": "",
+                        "shortName": "Codelessly/FlutterMinimalWebsite: A minimalistic Flutter website template for blogs and portfolios. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 6",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://careers.ey.com/ey/job/Bengaluru-WAM-Java-Spring-Boot-CB-KA-560016/1080140001/",
+                        "icon": "",
+                        "shortName": "WAM-Java Spring Boot-CB Job Details | EY",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal",
+                        "icon": "",
+                        "shortName": "Careers",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://paypal.eightfold.ai/careers/job/274901437849",
+                        "icon": "",
+                        "shortName": "Software Engineer | Careers at PayPal",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 7",
+        "cards": []
+    },
+    {
+        "label": "Tab 8",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://cutshort.io/profile/candidate-conversations?i=all&stage=unread&thread=669f7c765385a90027cb0f4a",
+                        "icon": "",
+                        "shortName": "Cutshort: Making Top Professionals More Successful.",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "https://doselect.com/gateways/public_assessment?pubkey=mU7ULzu%2B9OMT688StXBjRH9hc0tcH34JOl7eUrhNhbf8BZ568ouoA5ncpBb/IJk0",
+                        "icon": "",
+                        "shortName": "Java Assessment (MCQ + Coding) - DoSelect",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://aexp.eightfold.ai/careers/job?domain=aexp.com&pid=23694889&location=india&domain=aexp.com&sort_by=relevance&triggerGoButton=false&job_index=8",
+                        "icon": "",
+                        "shortName": "Engineer II - Java Backend | Careers at American Express",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 4",
+                "bookmarks": [
+                    {
+                        "href": "https://hackathon-app.doselect.com/1441/instructions",
+                        "icon": "",
+                        "shortName": "doselect",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 5",
+                "bookmarks": [
+                    {
+                        "href": "https://lucid.app/lucidchart/4afc7765-dcd0-4fa2-b874-2e341e02371b/edit?beaconFlowId=1A439A725875A95C&invitationId=inv_93a6c82f-d745-4421-930a-0928c81a6b53&page=0_0",
+                        "icon": "",
+                        "shortName": "HLD: Lucidchart",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 6",
+                "bookmarks": [
+                    {
+                        "href": "https://www.instahyre.com/candidate/inbox/270250/4757444872/",
+                        "icon": "",
+                        "shortName": "Inbox - Instahyre",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 7",
+                "bookmarks": [
+                    {
+                        "href": "https://tophire.co/interview-requests/active",
+                        "icon": "",
+                        "shortName": "TopHire",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 8",
+                "bookmarks": [
+                    {
+                        "href": "https://automateapply.com/",
+                        "icon": "",
+                        "shortName": "Home - automateapply.com",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 9",
+                "bookmarks": [
+                    {
+                        "href": "https://scale.jobs/",
+                        "icon": "",
+                        "shortName": "scale.jobs | Hire a Virtual Assistant for Your Job Hunt",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 10",
+                "bookmarks": [
+                    {
+                        "href": "https://99designs.com/profiles/2che/designs/46371",
+                        "icon": "",
+                        "shortName": "Creative website for Software Company. Opportunity for further design work for winner. | 99designs",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 11",
+                "bookmarks": [
+                    {
+                        "href": "https://cdn2.hubspot.net/hub/53/file-2366868440-png/Website-Homepage-Design-2015-Dropbox-Full.png",
+                        "icon": "",
+                        "shortName": "Website-Homepage-Design-2015-Dropbox-Full.png (1264×2496)",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 9",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://www.valentinog.com/blog/babel/",
+                        "icon": "",
+                        "shortName": "Tutorial: How to set up React, webpack, and Babel 7 from scratch (2019)",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "http://v1k45.com/blog/modern-django-part-4-adding-authentication-to-react-spa-using-drf/",
+                        "icon": "",
+                        "shortName": "Modern Django: Part 4: Adding authentication to React SPA using DRF — v1k45",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://blog.campvanilla.com/reactjs-dropdown-menus-b6e06ae3a8fe",
+                        "icon": "",
+                        "shortName": "ReactJS: Dropdown menus - Camp Vanilla",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 10",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://blog.campvanilla.com/reactjs-dropdown-menus-b6e06ae3a8fe",
+                        "icon": "",
+                        "shortName": "ReactJS: Dropdown menus - Camp Vanilla",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 11",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "http://s8.bitdownload.ir/Series/friends/S01/",
+                        "icon": "",
+                        "shortName": "Bitdownload Index of S01/",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 2",
+                "bookmarks": [
+                    {
+                        "href": "http://googleweblight.com/i?u=http://www.engineering.careers360.com/articles/josaa-reporting-centres&hl=en-IN",
+                        "icon": "",
+                        "shortName": "JoSAA Reporting Centres 2017 – Check the list here",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 3",
+                "bookmarks": [
+                    {
+                        "href": "https://channeli.in/#apps",
+                        "icon": "",
+                        "shortName": "Channel i - Apps",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 4",
+                "bookmarks": [
+                    {
+                        "href": "https://www.google.com/amp/s/techlog360.com/basic-ubuntu-commands-terminal-shortcuts-linux-beginner/amp/",
+                        "icon": "",
+                        "shortName": "18 Basic Ubuntu commands and Terminal shortcuts every beginner must know",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 5",
+                "bookmarks": [
+                    {
+                        "href": "https://alumnicelliitr.slack.com/archives/C8Y6UGH0E/p1544121290008500?thread_ts=1544121290.008500&cid=C8Y6UGH0E",
+                        "icon": "",
+                        "shortName": "Redirecting... | Institute Alumni Relations Cell Slack",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 6",
+                "bookmarks": [
+                    {
+                        "href": "https://www.wix.com/website-template/view/html/1805?utm_source=freewebsitetemplates&utm_medium=template_banner&utm_term=blank&utm_content=ma_html_fwt_temp_5_1_madre1805&utm_campaign=ma_fwt&experiment_id=cpa_fwt_temp_5_1_madre1805",
+                        "icon": "",
+                        "shortName": "Mexican Restaurant Website Template | WIX",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 7",
+                "bookmarks": [
+                    {
+                        "href": "https://codepen.io/vavik96/pen/pJNaZb",
+                        "icon": "",
+                        "shortName": "preloader-gif",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 8",
+                "bookmarks": [
+                    {
+                        "href": "https://css-tricks.com/almanac/properties/a/animation/",
+                        "icon": "",
+                        "shortName": "animation | CSS-Tricks",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 9",
+                "bookmarks": [
+                    {
+                        "href": "https://www.w3schools.com/howto/howto_js_scroll_to_top.asp",
+                        "icon": "",
+                        "shortName": "How To Create a Scroll Back To Top Button",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 10",
+                "bookmarks": [
+                    {
+                        "href": "https://www.google.com/search?client=ms-unknown&ei=2mBwXN_SAo25rQHXkZHYDQ&q=rayleigh+scattering&oq=rayleigh+scatter&gs_l=mobile-gws-wiz-serp.1.0.0i131j0l4.22107.25876..26674...0.0..0.236.2933.0j10j5......0....1.........35i39j33i160j0i20i263j46i20i263.Plf4Pw7_JTo",
+                        "icon": "",
+                        "shortName": "rayleigh scattering - Google Search",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 11",
+                "bookmarks": [
+                    {
+                        "href": "http://sr1.animelist1.ir/Anime%20Movie/One%20Piece%20movies/",
+                        "icon": "",
+                        "shortName": "Index of /Anime Movie/One Piece movies/",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 12",
+                "bookmarks": [
+                    {
+                        "href": "https://www.kirupa.com/react/simple_todo_app_react.htm",
+                        "icon": "",
+                        "shortName": "Building an Awesome Todo List App in React | KIRUPA",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 13",
+                "bookmarks": [
+                    {
+                        "href": "https://www.theodinproject.com/courses/javascript?ref=lnav",
+                        "icon": "",
+                        "shortName": "Javascript | The Odin Project",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 14",
+                "bookmarks": [
+                    {
+                        "href": "https://devhints.io/react",
+                        "icon": "",
+                        "shortName": "React.js cheatsheet",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 15",
+                "bookmarks": [
+                    {
+                        "href": "https://nptel.ac.in/courses/103103144/",
+                        "icon": "",
+                        "shortName": "NPTEL :: Chemical Engineering - NOC:Chemical Engineering Thermodynamics",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 16",
+                "bookmarks": [
+                    {
+                        "href": "http://retinatoday.com/2015/10/vitreous-substitutes/",
+                        "icon": "",
+                        "shortName": "Retina Today - Vitreous Substitutes (October 2015)",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 17",
+                "bookmarks": [
+                    {
+                        "href": "https://nptel.ac.in/courses/104103018/module3/lec2/5.html",
+                        "icon": "",
+                        "shortName": "https://nptel.ac.in/courses/104103018/module3/lec2/5.html",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 18",
+                "bookmarks": [
+                    {
+                        "href": "https://demos.creative-tim.com/material-dashboard-react/#/admin/dashboard",
+                        "icon": "",
+                        "shortName": "Material Dashboard React by Creative Tim | Free React Admin Template",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 19",
+                "bookmarks": [
+                    {
+                        "href": "https://teamtreehouse.com/library/topic:design",
+                        "icon": "",
+                        "shortName": "Learn Design on Treehouse with Our Video Lessons",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 20",
+                "bookmarks": [
+                    {
+                        "href": "https://www.npmjs.com/package/react-responsive",
+                        "icon": "",
+                        "shortName": "react-responsive - npm",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 21",
+                "bookmarks": [
+                    {
+                        "href": "https://codeburst.io/getting-started-with-react-router-5c978f70df91",
+                        "icon": "",
+                        "shortName": "Getting started with React Router – codeburst",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 22",
+                "bookmarks": [
+                    {
+                        "href": "https://stackoverflow.com/questions/30344476/web-link-to-specific-whatsapp-contact/43357241#43357241",
+                        "icon": "",
+                        "shortName": "Web link to specific whatsapp contact - Stack Overflow",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 23",
+                "bookmarks": [
+                    {
+                        "href": "https://medium.com/@maikluchtmeyer/a-guide-a-django-rest-react-redux-blueprint-part-4-d5f3c16c6d27",
+                        "icon": "",
+                        "shortName": "A Guide: A Django-REST-React-Redux Blueprint (Part 4)",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 24",
+                "bookmarks": [
+                    {
+                        "href": "https://dev.to/hexrcs/5-visual-studio-code-tricks-to-boost-your-productivity-27a4",
+                        "icon": "",
+                        "shortName": "5 Visual Studio Code Tricks to Boost Your Productivity - DEV Community 👩‍💻👨‍💻",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 25",
+                "bookmarks": [
+                    {
+                        "href": "https://medium.com/@dakota.lillie/django-react-jwt-authentication-5015ee00ef9a",
+                        "icon": "",
+                        "shortName": "Django & React: JWT Authentication - Dakota Lillie - Medium",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 26",
+                "bookmarks": [
+                    {
+                        "href": "https://www.valentinog.com/blog/babel/",
+                        "icon": "",
+                        "shortName": "Tutorial: How to set up React, webpack, and Babel 7 from scratch (2019)",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 27",
+                "bookmarks": [
+                    {
+                        "href": "https://www.howtogeek.com/358049/how-to-install-desktop-themes-on-ubuntu-18.04-lts/",
+                        "icon": "",
+                        "shortName": "How to Install Desktop Themes on Ubuntu 18.04 LTS",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 28",
+                "bookmarks": [
+                    {
+                        "href": "https://www.encyclopedia.com/social-sciences/dictionaries-thesauruses-pictures-and-press-releases/mass-media-sociology",
+                        "icon": "",
+                        "shortName": "mass media, sociology of | Encyclopedia.com",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 29",
+                "bookmarks": [
+                    {
+                        "href": "https://www.ukessays.com/essays/education/gambling-should-be-abolished.php",
+                        "icon": "",
+                        "shortName": "Gambling should be abolished",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 30",
+                "bookmarks": [
+                    {
+                        "href": "https://www.google.com/amp/s/delhimetrorail.info/okhla-nsic-delhi-metro-station-to-govind-puri-delhi-metro-station",
+                        "icon": "",
+                        "shortName": "Route from Okhla N.S.I.C to Govind Puri - Delhi Metro",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 31",
+                "bookmarks": [
+                    {
+                        "href": "https://www.bennadel.com/blog/2997-component-life-cycle-methods-need-to-be-defined-on-the-prototype-in-angularjs-2-beta-1.htm",
+                        "icon": "",
+                        "shortName": "Component Life-Cycle Methods Need To Be Defined On The Prototype In AngularJS 2 Beta 1",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 32",
+                "bookmarks": [
+                    {
+                        "href": "http://next.plnkr.co/edit/Ogf6poArAHEDFZHJYdjo?p=preview&preview",
+                        "icon": "",
+                        "shortName": "Plunker - ng2/RC4 - SanitizeHTML",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 33",
+                "bookmarks": [
+                    {
+                        "href": "https://docs.oracle.com/cloud/latest/marketingcs_gs/OMCAB/Developers/GettingStarted/APIRequests/URL-parameters.htm",
+                        "icon": "",
+                        "shortName": "URL parameters",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 34",
+                "bookmarks": [
+                    {
+                        "href": "http://paperjs.org/tutorials/geometry/vector-geometry/",
+                        "icon": "",
+                        "shortName": "Paper.js — Vector Geometry",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 35",
+                "bookmarks": [
+                    {
+                        "href": "https://unpkg.com/svgedit@5.1.0/editor/svg-editor.html",
+                        "icon": "",
+                        "shortName": "SVG-edit",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 36",
+                "bookmarks": [
+                    {
+                        "href": "https://github.com/SVG-Edit/svgedit",
+                        "icon": "",
+                        "shortName": "SVG-Edit/svgedit: Powerful SVG-Editor for your browser",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 37",
+                "bookmarks": [
+                    {
+                        "href": "https://probot.github.io/docs/",
+                        "icon": "",
+                        "shortName": "Introduction | Probot",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 38",
+                "bookmarks": [
+                    {
+                        "href": "https://graphicdesign.stackexchange.com/questions/61624/svg-file-size-more-than-a-png-image",
+                        "icon": "",
+                        "shortName": "Svg file size more than a png image - Graphic Design Stack Exchange",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 39",
+                "bookmarks": [
+                    {
+                        "href": "https://stackoverflow.com/questions/3975499/convert-svg-to-image-jpeg-png-etc-in-the-browser",
+                        "icon": "",
+                        "shortName": "Convert SVG to image (JPEG, PNG, etc.) in the browser - Stack Overflow",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 40",
+                "bookmarks": [
+                    {
+                        "href": "http://vk77lnizckm6.com/q8jd7mz0b?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=15185491",
+                        "icon": "",
+                        "shortName": "vk77lnizckm6.com/q8jd7mz0b?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=15185491",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 41",
+                "bookmarks": [
+                    {
+                        "href": "https://docs.google.com/document/d/1O2BIasGkbqft7ofROj3zchij1n_ZauzpI2p63OU4hoE/edit#",
+                        "icon": "",
+                        "shortName": "Declaration Form - Google Docs",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 42",
+                "bookmarks": [
+                    {
+                        "href": "https://codeforces.com/blog/entry/71080",
+                        "icon": "",
+                        "shortName": "Codeforces Round #597 (Div. 2) Editorial - Codeforces",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 43",
+                "bookmarks": [
+                    {
+                        "href": "https://how-to-solve-a-rubix-cube.com/",
+                        "icon": "",
+                        "shortName": "How To Solve A Rubik's Cube",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 44",
+                "bookmarks": [
+                    {
+                        "href": "https://www.google.com/search?q=media.net+interview+experience+leetcode&oq=media.net+interv&aqs=chrome.2.0i512j69i57j0i512l3.6665j1j4&client=ms-unknown&sourceid=chrome-mobile&ie=UTF-8",
+                        "icon": "",
+                        "shortName": "media.net interview experience leetcode - Google Search",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 45",
+                "bookmarks": [
+                    {
+                        "href": "https://www.google.com/search?q=bitset.clear+in+java&client=ms-unknown&sxsrf=AOaemvKoJ6OBDMRxT2yARaa_bJtJh-3D2Q%3A1638041220880&ei=hIaiYfyQNa-E4-EP8My5-Ag&oq=bitset.clear&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIFCAAQgAQyBggAEAoQHjIGCAAQCBAeOgQIABBHOgQIIxAnOgoIABCABBCHAhAUOgQIABBDOgQIABAeUP4GWNUVYJ8eaABwAXgAgAGYAogBjg6SAQUwLjMuNZgBAKABAcgBCMABAQ&sclient=mobile-gws-wiz-serp",
+                        "icon": "",
+                        "shortName": "bitset.clear in java - Google Search",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 46",
+                "bookmarks": [
+                    {
+                        "href": "https://www.startupschool.org/dashboard",
+                        "icon": "",
+                        "shortName": "Dashboard | Startup School - The Best Resource for Founders",
+                        "description": ""
+                    }
+                ]
+            },
+            {
+                "subLabel": "Card 47",
+                "bookmarks": [
+                    {
+                        "href": "https://w1.yesmovies123.me/tvshows/family-guy/",
+                        "icon": "",
+                        "shortName": "Watch Family Guy Online Free- YesMovies",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "Tab 12",
+        "cards": [
+            {
+                "subLabel": "Card 1",
+                "bookmarks": [
+                    {
+                        "href": "https://blog.campvanilla.com/reactjs-dropdown-menus-b6e06ae3a8fe",
+                        "icon": "",
+                        "shortName": "ReactJS: Dropdown menus - Camp Vanilla",
+                        "description": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

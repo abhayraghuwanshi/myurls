@@ -4,8 +4,9 @@ import MenuPopupState from './navbar/Menu';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MarketPlace from './MarketPlace/marketplace';
 import MarketPlaceDetail from './MarketPlace/marketplaceDetail';
+import Profile from './account/Profile'
 
-const Profile = () => <div>Your Profile Content</div>;
+// const Profile = () => <div>Your Profile Content</div>;
 const Logout = () => <div>Logged Out Successfully</div>;
 
 function App() {
